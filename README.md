@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghostcoach
 - 👀 I’m interested in web development, k8s, and architecture
-- 🌱 I’m currently learning svelte
+- 🌱 I’m currently getting deep into svelte and svelte kit
 - 💞️ I’m looking to collaborate on everything
 
 <!---
